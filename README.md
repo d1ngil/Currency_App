@@ -33,7 +33,7 @@ It allows users to convert a given amount between three supported currencies.
 
 ## App View
 
-![Currency App](/currency.view.png)
+![Currency App](currency.view.png)
 
 ### 1. Install dependencies:
 
